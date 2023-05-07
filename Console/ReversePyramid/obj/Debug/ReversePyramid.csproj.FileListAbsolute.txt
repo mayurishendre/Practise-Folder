@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Practicexceller\Console\ReversePyramid\bin\Debug\ReversePyramid.exe.config
+C:\Users\ASUS\Desktop\Practicexceller\Console\ReversePyramid\bin\Debug\ReversePyramid.exe
+C:\Users\ASUS\Desktop\Practicexceller\Console\ReversePyramid\bin\Debug\ReversePyramid.pdb
+C:\Users\ASUS\Desktop\Practicexceller\Console\ReversePyramid\obj\Debug\ReversePyramid.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Practicexceller\Console\ReversePyramid\obj\Debug\ReversePyramid.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Practicexceller\Console\ReversePyramid\obj\Debug\ReversePyramid.exe
+C:\Users\ASUS\Desktop\Practicexceller\Console\ReversePyramid\obj\Debug\ReversePyramid.pdb

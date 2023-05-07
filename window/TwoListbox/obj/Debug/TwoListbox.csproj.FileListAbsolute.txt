@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\bin\Debug\TwoListbox.exe.config
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\bin\Debug\TwoListbox.exe
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\bin\Debug\TwoListbox.pdb
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\obj\Debug\TwoListbox.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\obj\Debug\TwoListbox.frmlistbox.resources
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\obj\Debug\TwoListbox.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\obj\Debug\TwoListbox.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\obj\Debug\TwoListbox.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\obj\Debug\TwoListbox.exe
+C:\Users\ASUS\Desktop\Practicexceller\window\TwoListbox\obj\Debug\TwoListbox.pdb
